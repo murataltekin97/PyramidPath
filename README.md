@@ -2,6 +2,8 @@
 
 Kaynak kodlara PyramidPath dosyasını indirerek ulaşabilirsiniz.
 
+Kodları önizlemek için PyramidPath dosyasındaki src/pyramidpath dosyasına tıklayarak içindeki classları görebilir ve classlara tıklayarak inceleyebilirsiniz. 
+
 # Program Hakkında
 
 Kullanılan Dil: Java
