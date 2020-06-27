@@ -10,7 +10,7 @@ Kullanılan Ortam: NetBeans IDE 8.2
 
 # Teknik Test Sorusu Hakkında
 
-4. soruda verilen sayı piramidini PyramidPath dosyası içerisinde "piramit.txt" dosyası olarak kaydettim. 
+4. soruda verilen sayı piramidini PyramidPath projesi içerisinde "piramit.txt" dosyası olarak kaydettim. 
 Kodun içerisindeki "FileOperator" sınıfında bu dosyadan piramit bilgileri alınıyor.
 
 # Kod Çıktısı
